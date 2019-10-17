@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iebalidai.userjie.com/sitemap.xml
